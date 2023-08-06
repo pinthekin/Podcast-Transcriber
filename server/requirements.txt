@@ -1,0 +1,4 @@
+requests
+yt-dlp
+python-dotenv
+openai>=0.27.0
